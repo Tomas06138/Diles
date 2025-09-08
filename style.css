@@ -1,0 +1,36 @@
+body {
+  background: #111;
+  color: #cfc;
+  font-family: Inter, monospace;
+  text-align: center;
+  padding: 20px;
+}
+
+#lyrics {
+  margin: 20px auto;
+  width: 90%;
+  max-width: 800px;
+  text-align: left;
+  line-height: 1.6;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 8px;
+  background: #0b0b0b;
+}
+
+#lyrics div {
+  padding: 6px 8px;
+}
+
+.highlight {
+  background: #144;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 4px;
+}
+
+#status {
+  color: #9f9;
+  margin-top: 8px;
+  font-size: 13px;
+}
